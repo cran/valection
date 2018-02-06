@@ -1,0 +1,12 @@
+Valection - Sampler for verification (version 1.0.0)
+==================================================
+
+This readme is formatted in Markdown.
+
+Description
+-----------
+
+Valection can be used in various ways to sample the outputs of competing algorithims or
+parameterizations, and fairly assess their performance against each other.
+
+You must have the valection library installed to use this package. (http://labs.oicr.on.ca/boutros-lab/software/valection)
